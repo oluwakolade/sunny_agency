@@ -59,7 +59,7 @@
 
   h1 {
 
-    @apply text-3xl uppercase font-bold text-center text-white sm:text-4xl pt-12 mb-78  sm:mb-50 md:mb-32
+    @apply text-3xl uppercase font-bold text-center text-white sm:text-4xl pt-12 mb-70  sm:mb-50 md:mb-28
   }
 
 
